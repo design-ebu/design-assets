@@ -9,8 +9,8 @@
 
 @font-face {
   font-family: 'tednext';
-  src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.woff2") format("woff2"),
-    url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.woff") format("woff");
+  src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.woff2"), /*format("woff2"),*/
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.woff"); /* format("woff");*/
   font-weight: normal;
   font-style: normal;
 }
