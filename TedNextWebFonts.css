@@ -21,8 +21,8 @@
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.woff") format("woff"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.svg") format("svg"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.eot") format("eot");
-  //font-weight: $ute-font-weight-semibold;
-  font-weight: normal;
+  /*font-weight: $ute-font-weight-semibold;*/
+  font-weight: 600;
   font-style: normal;
 
 }
@@ -32,9 +32,8 @@
   font-family: 'tednext';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-bold.woff2") format("woff2"),
   url("http://www.rogers.com/cms/common/dca/fonts/tednext-bold.woff") format("woff");
-  //font-weight: $ute-font-weight-heavy;
-    font-weight: bold;
-    font-style: normal;
+  font-weight: $ute-font-weight-heavy;
+  font-style: normal;
 }
 
 @font-face {
@@ -55,11 +54,13 @@
   font-weight: 400;
   font-style: normal; }
 
+/*
 @font-face {
   font-family: 'tednext';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.woff2") format("woff2"), url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.woff") format("woff");
   font-weight: 500;
   font-style: normal; }
+*/
 
 @font-face {
   font-family: 'tednext';
