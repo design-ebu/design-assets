@@ -2,7 +2,8 @@
   font-family: 'tednext';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-light.woff2"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-light.woff");
-  font-weight: $ute-font-weight-light;
+  /*font-weight: $ute-font-weight-light;*/
+  font-weight: normal;
   font-style: normal;
 
 }
