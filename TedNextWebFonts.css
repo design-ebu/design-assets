@@ -22,7 +22,7 @@
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.svg") format("svg"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.eot") format("eot");
   /*font-weight: $ute-font-weight-semibold;*/
-  font-weight: 600;
+  font-weight: bold;
   font-style: normal;
 
 }
