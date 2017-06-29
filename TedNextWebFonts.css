@@ -1,4 +1,4 @@
-/*Joanna's Recommendation*/
+/*Joanna's Recommendation
 
 @font-face {
   font-family: 'tednext';
@@ -41,7 +41,7 @@
 }
 
 
-/* STYLE: ITALIC */
+// STYLE: ITALIC
 
 @font-face {
   font-family: 'tednext';
@@ -83,19 +83,17 @@
   font-style: italic;
 }
 
+*/
 
 
 
-
-/*
-Previous CSS
 
 @font-face {
   font-family: 'tednext';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-light.woff2"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-light.woff");
-  /*font-weight: $ute-font-weight-light;
-  font-weight: normal;
+  font-weight: $ute-font-weight-light;
+  //font-weight: normal;
   font-style: normal;
 
 }
@@ -172,6 +170,6 @@ Previous CSS
   url("http://www.rogers.com/cms/common/dca/fonts/tednext-bold.woff");
   font-weight: 700;
   font-style: normal; }
-*/
+
 
 
