@@ -3,10 +3,10 @@
 
 @font-face {
   font-family: 'tednext';
-  src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.eot"), 
-    url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.woff2"), 
-    url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.woff"),
-    url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.svg"); 
+  src: url("cms/common/dca/fonts/tednext-regular.eot"), 
+    url("/cms/common/dca/fonts/tednext-regular.woff2"), 
+    url("/cms/common/dca/fonts/tednext-regular.woff"),
+    url("/cms/common/dca/fonts/tednext-regular.svg"); 
   font-weight: normal;
   font-style: normal;
 }
