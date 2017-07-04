@@ -1,1 +1,107 @@
 
+
+// STYLE: REGULAR
+
+@font-face {
+  font-family: 'tednext';
+  src: url("http://www.rogers.comcms/common/dca/fonts/tednext-regular.eot"), 
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.woff2"), 
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.woff"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.svg"); 
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+// STYLE: LIGHT
+
+@font-face {
+  font-family: 'tednext';
+  src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-light.eot"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-light.woff2"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-light.woff"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-light.svg");
+  font-weight: 200;
+  font-style: normal;
+}
+
+
+// STYLE: SEMIBOLD
+
+@font-face {
+  font-family: 'tednext';
+  src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.eot"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.woff2"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.woff"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.svg");
+  font-weight: 650;
+  font-style: normal;
+}
+
+
+
+// STYLE: BOLD
+
+@font-face {
+  font-family: 'tednext';
+  src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-bold.eot"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-bold.woff2"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-bold.woff"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-bold.svg");
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+// STYLE: ITALIC
+
+@font-face {
+  font-family: 'tednext';
+  src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-italic.eot"), 
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-italic.woff2"), 
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-italic.woff"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-italic.svg"); 
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+// STYLE: LIGHT ITALIC
+
+@font-face {
+  font-family: 'tednext';
+  src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-lightitalic.eot"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-lightitalic.woff2"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-lightitalic.woff"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-lightitalic.svg");
+  font-weight: 200;
+  font-style: italic;
+}
+
+
+// STYLE: SEMI BOLD ITALIC
+
+@font-face {
+  font-family: 'tednext';
+  src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibolditalic.eot"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibolditalic.woff2"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibolditalic.woff"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibolditalic.svg");
+  font-weight: 650;
+  font-style: italic;
+}
+
+
+// STYLE: BOLD ITALIC
+
+@font-face {
+  font-family: 'tednext';
+  src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-bolditalic.eot"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-bolditalic.woff2"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-bolditalic.woff"),
+    url("http://www.rogers.com/cms/common/dca/fonts/tednext-bolditalic.svg");
+  font-weight: 700;
+  font-style: italic;
+}
+
+
