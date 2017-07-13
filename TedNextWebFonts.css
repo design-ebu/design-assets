@@ -1,7 +1,7 @@
 /* STYLE: NORMAL */
 
 @font-face {
-  font-family: 'tednext';
+  font-family: 'TedNext';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.eot"), 
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.woff2"), 
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.woff"),
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-  font-family: 'tednext';
+  font-family: 'TedNextLight';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-light.eot"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-light.woff2"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-light.woff"),
@@ -21,7 +21,7 @@
 }
 
 @font-face {
-  font-family: 'tednext';
+  font-family: 'TedNextSemiBold';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.eot"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.woff2"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.woff"),
@@ -31,7 +31,7 @@
 }
 
 @font-face {
-  font-family: 'tednext';
+  font-family: 'TedNext-Bold';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-bold.eot"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-bold.woff2"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-bold.woff"),
@@ -44,7 +44,7 @@
 /* STYLE: ITALIC */
 
 @font-face {
-  font-family: 'tednext';
+  font-family: 'TedNext-Italic';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-italic.eot"), 
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-italic.woff2"), 
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-italic.woff"),
@@ -54,7 +54,7 @@
 }
 
 @font-face {
-  font-family: 'tednext';
+  font-family: 'TedNextLight-Italic';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-lightitalic.eot"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-lightitalic.woff2"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-lightitalic.woff"),
@@ -64,7 +64,7 @@
 }
 
 @font-face {
-  font-family: 'tednext';
+  font-family: 'TedNextSemiBold-Italic';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibolditalic.eot"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibolditalic.woff2"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibolditalic.woff"),
@@ -74,7 +74,7 @@
 }
 
 @font-face {
-  font-family: 'tednext';
+  font-family: 'TedNext-BoldItalic';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-bolditalic.eot"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-bolditalic.woff2"),
     url("http://www.rogers.com/cms/common/dca/fonts/tednext-bolditalic.woff"),
