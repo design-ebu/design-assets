@@ -23,12 +23,12 @@
 */
 
 @font-face {
-  font-family: 'TedNext-SemiBold';
+  font-family: 'tednext';
   src: 
     /* url("https://github.com/design-ebu/design-assets/blob/master/TedNext-Semibold.woff2"),*/
     /* url("https://github.com/design-ebu/design-assets/blob/master/TedNext-Semibold.woff"),*/
     url("https://github.com/design-ebu/design-assets/blob/master/tednext-semibold.woff");
-    font-weight: 650;
+    font-weight: 500;
   font-style: normal;
 }
 
