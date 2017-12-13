@@ -1,5 +1,6 @@
 /* STYLE: NORMAL */
 
+/*
 @font-face {
   font-family: 'TedNext';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-regular.eot"), 
@@ -19,17 +20,17 @@
   font-weight: 300;
   font-style: normal;
 }
+*/
 
 @font-face {
-  font-family: 'TedNextSemiBold';
-  src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.eot"),
-    url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.woff2"),
-    url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.woff"),
-    url("http://www.rogers.com/cms/common/dca/fonts/tednext-semibold.svg");
-  font-weight: 600;
+  font-family: 'TedNext-SemiBold';
+  src: url("https://github.com/design-ebu/design-assets/blob/master/TedNext-Semibold.woff2"),
+    url("https://github.com/design-ebu/design-assets/blob/master/TedNext-Semibold.woff");
+    font-weight: 650;
   font-style: normal;
 }
 
+/*
 @font-face {
   font-family: 'TedNext-Bold';
   src: url("http://www.rogers.com/cms/common/dca/fonts/tednext-bold.eot"),
@@ -44,6 +45,8 @@
 
 
 /* STYLE: ITALIC */
+
+/*
 
 @font-face {
   font-family: 'TedNext-Italic';
@@ -94,3 +97,4 @@
   font-weight: 900;
   font-style: italic;
 }
+*/
