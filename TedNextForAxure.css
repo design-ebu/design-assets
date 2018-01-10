@@ -1,3 +1,22 @@
+
+@font-face {
+  font-family: 'TedNext-Regular';
+  font-style: normal;
+  font-weight: 300;
+  src: url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Regular.eot") format("embedded-opentype"), 
+    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Regular.woff") format("woff"), 
+    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Regular.woff2") format("woff2"), 
+    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Regular.svg") format("svg"); }
+
+@font-face {
+  font-family: 'TedNext-Semibold';
+  font-style: normal;
+  font-weight: 300;
+  src: url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Semibold.eot") format("embedded-opentype"), 
+    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Semibold.woff") format("woff"), 
+    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Semibold.woff2") format("woff2"), 
+    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Semibold.svg") format("svg"); }
+
 @font-face {
   font-family: 'TedNext-Bold';
   font-style: bold;
@@ -7,6 +26,7 @@
     url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Bold.woff2") format("woff2"), 
     url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Bold.svg") format("svg"); }
 
+@font-face {
   font-family: 'TedNext-Italic';
   font-style: italic;
   font-weight: 300;
@@ -34,21 +54,4 @@ url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Italic.
     url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Medium.woff2") format("woff2"), 
     url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Medium.svg") format("svg"); }
 
-@font-face {
-  font-family: 'TedNext-Regular';
-  font-style: normal;
-  font-weight: 300;
-  src: url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Regular.eot") format("embedded-opentype"), 
-    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Regular.woff") format("woff"), 
-    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Regular.woff2") format("woff2"), 
-    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Regular.svg") format("svg"); }
-
-@font-face {
-  font-family: 'TedNext-Semibold';
-  font-style: normal;
-  font-weight: 300;
-  src: url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Semibold.eot") format("embedded-opentype"), 
-    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Semibold.woff") format("woff"), 
-    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Semibold.woff2") format("woff2"), 
-    url("http://dui.rogers.com/1.0/modules/1/1.0.36/rogers_ebu/fonts/TedNext-Semibold.svg") format("svg"); }
 
